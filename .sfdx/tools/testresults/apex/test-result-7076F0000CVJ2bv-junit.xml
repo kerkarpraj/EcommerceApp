@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="force.apex" timestamp="2019-06-04T21:00:45+05:30" hostname="https://prajyotk1305-dev-ed.my.salesforce.com" tests="1" failures="0"  errors="0"  time="3.86">
+        <properties>
+            <property name="outcome" value="Passed"/>
+            <property name="testsRan" value="1"/>
+            <property name="passing" value="1"/>
+            <property name="failing" value="0"/>
+            <property name="skipped" value="0"/>
+            <property name="passRate" value="100%"/>
+            <property name="failRate" value="0%"/>
+            <property name="testStartTime" value="Jun 4, 2019 9:00 PM"/>
+            <property name="testExecutionTime" value="3.86 s"/>
+            <property name="testTotalTime" value="3.86 s"/>
+            <property name="commandTime" value="33.98 s"/>
+            <property name="hostname" value="https://prajyotk1305-dev-ed.my.salesforce.com"/>
+            <property name="orgId" value="00D6F000002KSeHUAW"/>
+            <property name="username" value="prajyotk1305@gmail.com"/>
+            <property name="testRunId" value="7076F0000CVJ2bv"/>
+            <property name="userId" value="0056F000009lgmaQAA"/>
+        </properties>
+        <testcase name="test_assignOrderToQueue" classname="Test_OrderTriggerHandler" time="3.86">
+        </testcase>
+    </testsuite>
+</testsuites>

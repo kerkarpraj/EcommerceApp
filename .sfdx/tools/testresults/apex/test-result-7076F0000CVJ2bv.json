@@ -1,0 +1,46 @@
+{
+    "summary": {
+        "outcome": "Passed",
+        "testsRan": 1,
+        "passing": 1,
+        "failing": 0,
+        "skipped": 0,
+        "passRate": "100%",
+        "failRate": "0%",
+        "testStartTime": "Jun 4, 2019 9:00 PM",
+        "testExecutionTime": "3862 ms",
+        "testTotalTime": "3862 ms",
+        "commandTime": "33984 ms",
+        "hostname": "https://prajyotk1305-dev-ed.my.salesforce.com",
+        "orgId": "00D6F000002KSeHUAW",
+        "username": "prajyotk1305@gmail.com",
+        "testRunId": "7076F0000CVJ2bv",
+        "userId": "0056F000009lgmaQAA"
+    },
+    "tests": [
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v45.0/tooling/sobjects/ApexTestResult/07M6F00000AF1pLUAT"
+            },
+            "Id": "07M6F00000AF1pLUAT",
+            "QueueItemId": "7096F0000012e3PQAQ",
+            "StackTrace": null,
+            "Message": null,
+            "AsyncApexJobId": "7076F0000CVJ2bvQQD",
+            "MethodName": "test_assignOrderToQueue",
+            "Outcome": "Pass",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v45.0/tooling/sobjects/ApexClass/01p6F00000EWWVhQAP"
+                },
+                "Id": "01p6F00000EWWVhQAP",
+                "Name": "Test_OrderTriggerHandler",
+                "NamespacePrefix": null
+            },
+            "RunTime": 3862,
+            "FullName": "Test_OrderTriggerHandler.test_assignOrderToQueue"
+        }
+    ]
+}
